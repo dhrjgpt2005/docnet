@@ -1,0 +1,9 @@
+{
+    "id": "journels",
+    "name": "Journels",
+    "description": "Journels Core",
+    "keywords": [
+        "core"
+    ],
+    "version": "1.0"
+}
